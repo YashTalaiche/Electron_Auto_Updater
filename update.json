@@ -1,0 +1,7 @@
+{
+    "version": "1.0.3",
+    "releaseDate": "2023-02-16",
+    "releaseNotes": "This release includes bug fixes and performance improvements.",
+    "packageUrl": "s3://odyssey-desktop-application/OdysseyV1.0.1/Odyssey-Setup-1.0.2.exe",
+    "sha256": "abcd1234"
+  }
