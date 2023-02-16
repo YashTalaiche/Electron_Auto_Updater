@@ -1,5 +1,7 @@
  {
-  "version": "1.0.2",
-  "url": "https://odyssey-desktop-application.s3.ap-south-1.amazonaws.com/OdysseyV1.0.1/Odyssey-Setup-1.0.2.exe",
-  "releaseNotes": "This release contains bug fixes and new features."
-}
+"version": "1.0.5",
+"releaseDate": "2023-02-15",
+"releaseNotes": "This release includes bug fixes and performance improvements.",
+"packageUrl": "s3://odyssey-desktop-application/OdysseyV1.0.1/Odyssey-Setup-1.0.5.exe",
+"sha512": "62361fd60ce2c4422194f467b03cfb078ffd42afc2012604aebb7c15b8ff5cb35fdd9a92f8955e46e6cae0dc7521696f7a44d70390dcbc7310f3d4d8d529ede2"
+ }
